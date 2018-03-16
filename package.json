@@ -1,0 +1,9 @@
+{
+  "name": "@ferimer/require_folders",
+  "version": "1.0.1",
+  "description": "Function to require all modules at subfolders",
+  "main": "index.js",
+  "repository": "git@github.com:ferimer/node-require_folders.git",
+  "author": "Ferimer",
+  "license": "MIT"
+}
